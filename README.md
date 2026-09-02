@@ -416,7 +416,7 @@ Cada etapa acrescenta uma nova camada ao sistema, permitindo compreender não ap
 🚧 **Projeto em desenvolvimento**
 
 ```text
-Etapa 1  █████░░░░░  Fundação
+Etapa 1  ███████░░░  Fundação
 Etapa 2  ░░░░░░░░░░  Modelo e consultas
 Etapa 3  ░░░░░░░░░░  CRUD completo
 Etapa 4  ░░░░░░░░░░  Front End
